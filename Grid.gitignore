@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>grid</title> 
+        <nav>
+<a href="http://localhost:8158/Index.html">index.html</a>
+        </nav>
+<link rel="stylesheet" href="style2.css">
+    </head>
+    <body>
+        <main>
+<div class="item-a">a</div>
+        <div class="item-b">b</div>
+        <div class ="item-c">c</div>
+        <div class="item-d">d</div> 
+        <div class="item-e">e</div>
+     </main>
+    </body>
+</html>
